@@ -27,4 +27,5 @@ styles/globals.css -- line 1219-1224
 use green-haze 50,500,600 and 900 
 use mine-shaft 50,500,600 and 900 
 ``` 
+ 
 
